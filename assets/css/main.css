@@ -5,7 +5,6 @@ body {
  background-size: cover;
 }
 
-
 .global {
   width: 80%;
   margin: auto;
@@ -39,4 +38,13 @@ body {
 
 .mailobject {
   border: 1px solid;
+}
+
+.txtmail {
+  background-color: lightgrey;
+}
+
+.selectionmail {
+  border: 1px solid;
+  background: white;
 }
