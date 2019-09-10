@@ -1,0 +1,39 @@
+/* regole generali */
+
+body {
+ background-image: url("../img/379569.png");
+ background-size: cover;
+}
+
+
+.global {
+  width: 80%;
+  margin: auto;
+}
+
+/*header block*/
+.logo {
+  width: 100px;
+}
+
+.nameapp {
+  color: white;
+}
+
+/* sezione ricerca */
+.mailunread {
+  color: white;
+}
+
+#cerchio {
+  background-color: orange;
+  border-radius: 50%;
+  padding: 5px;
+}
+
+/* sezione mail */
+.mail {
+  border: 1px solid;
+  background: lightgrey;
+
+}
