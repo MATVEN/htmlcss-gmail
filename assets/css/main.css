@@ -35,5 +35,8 @@ body {
 .mail {
   border: 1px solid;
   background: lightgrey;
+}
 
+.mailobject {
+  border: 1px solid;
 }
